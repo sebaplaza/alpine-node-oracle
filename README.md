@@ -1,0 +1,1 @@
+Currently not working for nodejs applications using the oracledb driver
